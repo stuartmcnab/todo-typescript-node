@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "nodeAccess",
+        "MONGO_PASSWORD": "HM7ooxSrRdGwcw3W",
+        "MONGO_DB": "Cluster0"
+    }
+}
